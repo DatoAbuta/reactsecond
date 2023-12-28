@@ -64,15 +64,19 @@ body{
     background-color: #e9aa66;
     border: 2px solid white;
     color: white;
-    
+    transition: 0.3s;
 }
 .aqua:hover{
     background-color: #05aab5;
     border: 2px solid white;
     color: white;
+    transition: 0.3s;
+
 }
 .blue:hover{
     background-color: #1d9d9b;
     border: 2px solid white;
     color: white;
+    transition: 0.3s;
+
 }
