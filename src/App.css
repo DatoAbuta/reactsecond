@@ -1,0 +1,16 @@
+body{
+  padding-top: 88px;
+}
+
+@media(width>=1440px){
+  body{
+    transition: 0.8s;
+    padding-top: 171px;
+  }
+  .flex{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      transition: 0.8s;
+  }
+}
