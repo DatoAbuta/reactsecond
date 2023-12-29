@@ -3,12 +3,13 @@ import dis from './cards.module.css'
 
 const Card = ({
     hover,
-    name = 'error',
+    name,
     imgUrl,
-    desc ='error',
+    desc,
     backgroundColor,
     buttonColor,
-    button = 'error'}) => {
+    button
+  }) => {
 
 
   return (
